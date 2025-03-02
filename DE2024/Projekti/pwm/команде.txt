@@ -1,8 +1,0 @@
-1. Download and install ModelSim simulation tool via link 
-	https://www.intel.com/content/www/us/en/software-kit/750368/modelsim-intel-fpgas-standard-edition-software-version-18-1.html
-
-2. Run ModelSim
-
-3. In ModelSim terminal type -> "do C:/Users/Korisnik/Documents/pwm/run.do"
-
-4. In ModelSim terminal type -> "runtb"
